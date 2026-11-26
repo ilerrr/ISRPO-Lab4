@@ -1,0 +1,10 @@
+.DS_Store
+.vs/
+.vscode/
+*.user
+*.suo
+bin/
+obj/
+build/
+out/
+*.tmp
